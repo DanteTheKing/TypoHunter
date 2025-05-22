@@ -1,0 +1,1 @@
+console.log("TypoHunter is active.");
