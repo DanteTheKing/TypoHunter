@@ -1,5 +1,4 @@
 # TypoHunter
-# TypoHunter 🧠✏️
 
 **TypoHunter** is a privacy-friendly, offline Chrome extension that auto-corrects typos *as you type* — across all websites.
 
